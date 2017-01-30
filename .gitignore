@@ -1,2 +1,2 @@
-.sass-cache/
-*.css.map
+# Avoid Committing the local profile. Store anything that shouldn't be shared here
+Microsoft.PowerShell_profile.ps1
